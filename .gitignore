@@ -1,0 +1,9 @@
+# Editor / language server
+.clangd
+.cache/
+
+# Build output
+db
+db.exe
+*.o
+*.db
